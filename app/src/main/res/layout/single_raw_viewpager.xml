@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ly_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorLightPink"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_25sdp"
+        android:fontFamily="@font/alegreyasans_bold"
+        android:text="Test"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_20sdp" />
+
+    <TextView
+        android:id="@+id/sub_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_title"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="@dimen/_25sdp"
+        android:layout_marginTop="@dimen/_25sdp"
+        android:layout_marginEnd="@dimen/_25sdp"
+        android:fontFamily="@font/alegreyasans_regular"
+        android:gravity="center"
+        android:lineSpacingExtra="@dimen/_5sdp"
+        android:text="@string/sub_title_1"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_16sdp" />
+
+    <ImageView
+        android:id="@+id/images"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/sub_title"
+        android:scaleType="fitXY"
+        android:src="@drawable/scrolling_1" />
+
+    <TextView
+        android:id="@+id/tv_go"
+        android:layout_width="@dimen/_150sdp"
+        android:layout_height="@dimen/_45sdp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/_20sdp"
+        android:layout_alignParentBottom="true"
+        android:visibility="gone"
+        android:background="@drawable/rounded_blue"
+        android:fontFamily="@font/alegreyasans_regular"
+        android:gravity="center"
+        android:text="Go"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_16sdp" />
+</RelativeLayout>

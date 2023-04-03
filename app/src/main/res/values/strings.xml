@@ -1,0 +1,333 @@
+<resources>
+    <string name="app_name">Iris</string>
+    <string name="lets_help">Let Us Help You</string>
+    <string name="skip">Skip</string>
+    <string name="welcome_iris">Welcome to iris!</string>
+    <string name="welcome_1">Hi,we\'re glad you\'re here</string>
+    <string name="title_txt">Title</string>
+    <string name="title_1">Communicate</string>
+    <string name="title_2">Mediate</string>
+    <string name="title_3">Translate</string>
+    <string name="sub_title_1">ISL/ASL,speech text and\ntext to speech converters to\nchoose from</string>
+    <string name="sub_title_2">guide meditation,visual\nand auditory aids to help\n with anxiety</string>
+    <string name="sub_title_3">multi-language support for\ntranslating from English to\nHindi and vise versa</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_account">Already have an account? Log in</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="create_account">Create your account</string>
+    <string name="log_in">Log In</string>
+    <string name="forgot_pass">Forgot Password?</string>
+    <string name="forgot_pass2">Forgot Password</string>
+    <string name="continue_with_google">Continue with google</string>
+    <string name="or_login_with_email">Or login with email</string>
+    <string name="or_sign_up_with_email">Or sign up with email</string>
+    <string name="privacy_policy">i have read the Privacy Policy</string>
+    <string name="get_started">Get Started</string>
+    <string name="email_address">Email Address</string>
+    <string name="submit">Submit</string>
+    <string name="create_new_account">Create a new account? Sign up</string>
+    <string name="enter_email">Enter email address:</string>
+    <string name="verification">Verification</string>
+    <string name="enter_otp">Enter Otp:</string>
+    <string name="no_data_found">No data found.</string>
+    <string name="try_now">Try now</string>
+    <string name="text_to_speech">Text to Speech</string>
+    <string name="speech_to_sign">Speech to Sign Language</string>
+    <string name="sign_to_text">Sign Language to Text</string>
+    <string name="speech_to_text">Speech to Text</string>
+    <string name="meditation">Meditation</string>
+    <string name="sub_main_title_1">Iris will convert your written text to speech.</string>
+    <string name="sub_main_title_2">Iris will convert your spoken words to the sign language of your choosing.</string>
+    <string name="sub_main_title_3">Lorem ismp.</string>
+    <string name="sub_main_title_4">Iris will convert your spoken words to written text.</string>
+    <string name="sub_main_title_5">Lorem ispm.</string>
+    <string name="how_can_we_help_you_today">How can we help you today?</string>
+    <string name="home">Home</string>
+    <string name="setting">Setting</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="change_profile">Change profile photo</string>
+    <string name="more">More</string>
+    <string name="help_support"><![CDATA[Help & Support]]></string>
+    <string name="about_app">About App</string>
+    <string name="enter_text_here">Enter Text Here</string>
+    <string name="convert">Convert</string>
+    <string name="press_mike_to_play">Press Mic to To Play</string>
+    <string name="press_mike_to_start">Press mic to start</string>
+    <string name="text_to_sign">Text to Sign Language</string>
+    <string name="select_sign_lang_pref">Please select your Sign Language Preference</string>
+    <string name="indian_sign">Indian Sign Language</string>
+    <string name="iris_will_convert_your_spoken_words_to_indian_sign_language">Iris will convert your spoken words to Indian Sign Language</string>
+    <string name="iris_will_convert_your_spoken_words_to_american_sign_language">Iris will convert your spoken words to American Sign Language</string>
+    <string name="american_sign">American Sign Language</string>
+    <string name="what_bring_you_to_meditation">What Bring you to Meditation?</string>
+    <string name="choose_topic">choose a topic to focus on:</string>
+    <string name="any_time_text">Any time you can choose but we recommened first thing in morming.</string>
+    <string name="which_day_text">Which day would you like to meditate?</string>
+    <string name="every_day_is_best_txt">Every day is best, but we recommend picking at least five.</string>
+    <string name="save">Save</string>
+    <string name="no_thanks">No Thanks</string>
+    <string name="download">Download</string>
+
+    <string name="permission_dialog_title">Permissions</string>
+    <string name="permission_dialog_msg">Manage external storage permission required.</string>
+    <string name="permission_dialog_btn">Settings</string>
+
+    <array name="title">
+        <item>@string/text_to_speech</item>
+        <item>@string/speech_to_sign</item>
+        <item>@string/sign_to_text</item>
+        <item>@string/speech_to_text</item>
+        <item>@string/meditation</item>
+    </array>
+
+    <array name="sub_title">
+        <item>@string/sub_main_title_1</item>
+        <item>@string/sub_main_title_2</item>
+        <item>@string/sub_main_title_3</item>
+        <item>@string/sub_main_title_4</item>
+        <item>@string/sub_main_title_5</item>
+    </array>
+
+    <array name="home_icons">
+        <item>@drawable/text_to_speech</item>
+        <item>@drawable/rolling</item>
+        <item>@drawable/text_to_speech</item>
+        <item>@drawable/laying</item>
+        <item>@drawable/meditating_doodle</item>
+    </array>
+
+    <array name="sub_slug_name">
+        <item>text_to_speech</item>
+        <item>speech_to_sign</item>
+        <item>sign_to_text</item>
+        <item>speech_to_text</item>
+        <item>meditation</item>
+    </array>
+
+    <array name="colors">
+        <item>@color/colorLightOrange</item>
+        <item>@color/colorLightGreen2</item>
+        <item>@color/colorSky</item>
+        <item>@color/colorLightPurple</item>
+        <item>@color/colorLightPink1</item>
+    </array>
+
+    <array name="settings">
+        <item>Rate Iris</item>
+        <item>Contact Us</item>
+        <item>Reminder</item>
+        <item>Privacy Policy</item>
+        <item>Terms of User</item>
+    </array>
+
+    <array name="profile_title">
+        <item>My account</item>
+        <item>Notifications</item>
+        <item>Settings</item>
+        <item>Log out</item>
+    </array>
+
+    <array name="profile_slug">
+        <item>my_account</item>
+        <item>notifications</item>
+        <item>settings</item>
+        <item>log_out</item>
+    </array>
+
+    <array name="profile_sub_title">
+        <item>Make changes to your account</item>
+        <item>Select type of notification you get</item>
+        <item>Control account settings</item>
+        <item>Sing out of account</item>
+    </array>
+
+    <array name="meditation_icons">
+        <item>@drawable/plant_doodle</item>
+        <item>@drawable/ballet_doodle</item>
+        <item>@drawable/ballet_doodle</item>
+        <item>@drawable/meditating_doodle</item>
+        <item>@drawable/rolling</item>
+        <item>@drawable/levitate</item>
+    </array>
+
+    <array name="meditation_title">
+        <item>Reduce Stress</item>
+        <item>Improve Performance</item>
+        <item>Increase Happiness</item>
+        <item>Reduce Anxiety</item>
+        <item> </item>
+        <item>Better Sleep</item>
+    </array>
+    <array name="meditation_color">
+        <item>@color/colorBlue3</item>
+        <item>@color/colorOrange</item>
+        <item>@color/colorOrange1</item>
+        <item>@color/colorOrange2</item>
+        <item>@color/colorGreen</item>
+        <item>@color/colorBlack1</item>
+    </array>
+
+    <array name="meditation_text_color">
+        <item>#f1e1d2</item>
+        <item>@color/white</item>
+        <item>@color/colorBlack1</item>
+        <item>@color/colorBlack1</item>
+        <item>@color/white</item>
+        <item>@color/white</item>
+    </array>
+
+    <array name="sign_to_text_tex">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </array>
+    <array name="sign_to_text_images">
+        <item>@drawable/one</item>
+        <item>@drawable/two</item>
+        <item>@drawable/three</item>
+        <item>@drawable/four</item>
+        <item>@drawable/five</item>
+        <item>@drawable/six</item>
+        <item>@drawable/seven</item>
+        <item>@drawable/eight</item>
+        <item>@drawable/nine</item>
+        <item>@drawable/a</item>
+        <item>@drawable/b</item>
+        <item>@drawable/c</item>
+        <item>@drawable/d</item>
+        <item>@drawable/e</item>
+        <item>@drawable/f</item>
+        <item>@drawable/g</item>
+        <item>@drawable/h</item>
+        <item>@drawable/i</item>
+        <item>@drawable/j</item>
+        <item>@drawable/k</item>
+        <item>@drawable/l</item>
+        <item>@drawable/m</item>
+        <item>@drawable/n</item>
+        <item>@drawable/o</item>
+        <item>@drawable/p</item>
+        <item>@drawable/q</item>
+        <item>@drawable/r</item>
+        <item>@drawable/s</item>
+        <item>@drawable/t</item>
+        <item>@drawable/u</item>
+        <item>@drawable/v</item>
+        <item>@drawable/w</item>
+        <item>@drawable/x</item>
+        <item>@drawable/y</item>
+        <item>@drawable/z</item>
+    </array>
+
+
+    <array name="american_sign_to_text_tex">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+        <item>d</item>
+        <item>e</item>
+        <item>f</item>
+        <item>g</item>
+        <item>h</item>
+        <item>i</item>
+        <item>j</item>
+        <item>k</item>
+        <item>l</item>
+        <item>m</item>
+        <item>n</item>
+        <item>o</item>
+        <item>p</item>
+        <item>q</item>
+        <item>r</item>
+        <item>s</item>
+        <item>t</item>
+        <item>u</item>
+        <item>v</item>
+        <item>w</item>
+        <item>x</item>
+        <item>y</item>
+        <item>z</item>
+    </array>
+
+    <array name="american_sign_to_text_images">
+        <item>@drawable/a_zero</item>
+        <item>@drawable/a_one</item>
+        <item>@drawable/a_two</item>
+        <item>@drawable/a_three</item>
+        <item>@drawable/a_four</item>
+        <item>@drawable/a_five</item>
+        <item>@drawable/a_six</item>
+        <item>@drawable/a_seven</item>
+        <item>@drawable/a_eight</item>
+        <item>@drawable/a_nine</item>
+        <item>@drawable/a_a</item>
+        <item>@drawable/a_b</item>
+        <item>@drawable/a_c</item>
+        <item>@drawable/a_d</item>
+        <item>@drawable/a_e</item>
+        <item>@drawable/a_f</item>
+        <item>@drawable/a_g</item>
+        <item>@drawable/a_h</item>
+        <item>@drawable/a_i</item>
+        <item>@drawable/a_j</item>
+        <item>@drawable/a_k</item>
+        <item>@drawable/a_l</item>
+        <item>@drawable/a_m</item>
+        <item>@drawable/a_n</item>
+        <item>@drawable/a_o</item>
+        <item>@drawable/a_p</item>
+        <item>@drawable/a_q</item>
+        <item>@drawable/a_r</item>
+        <item>@drawable/a_s</item>
+        <item>@drawable/a_t</item>
+        <item>@drawable/a_u</item>
+        <item>@drawable/a_v</item>
+        <item>@drawable/a_w</item>
+        <item>@drawable/a_x</item>
+        <item>@drawable/a_y</item>
+        <item>@drawable/a_z</item>
+    </array>
+</resources>

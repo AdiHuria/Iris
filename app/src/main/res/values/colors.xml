@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="offwhite">#f5f5f5</color>
+    <color name="colorGrey">#a4aacc</color>
+    <color name="colorGrey2">#f5f5f9</color>
+    <color name="colorLightPink">#ce9ca4</color>
+    <color name="colorLightGreen">#a5b7b3</color>
+    <color name="colorDarkBlue">#7879b3</color>
+    <color name="colorDarkBlue2">#32125a</color>
+    <color name="colorLightGreen1">#adbab7</color>
+    <color name="colorLightGreen2">#cfdcd9</color>
+    <color name="colorLightGreen3">#F2F2F2</color>
+    <color name="colorLightGreen4">#99b4ae</color>
+    <color name="colorMarun">#371b34</color>
+    <color name="colorMarun2">#484B59</color>
+    <color name="colorMarun3">#561f27</color>
+    <color name="colorMarun4">#551a25</color>
+    <color name="colorBlue1">#5068d7</color>
+    <color name="colorBlue3">#8e97fd</color>
+    <color name="colorBlue4">#d7d8fb</color>
+    <color name="colorTextHint">#919191</color>
+    <color name="colorTextHint2">#a9acb5</color>
+    <color name="colorText">#484848</color>
+    <color name="colorLightOrange">#fee6c6</color>
+    <color name="colorDarkOrange">#a56c17</color>
+    <color name="colorSky">#c6f1ff</color>
+    <color name="colorLightPurple">#ede6fc</color>
+    <color name="colorLightPink1">#fcddec</color>
+    <color name="colorGrey1">#d9d9d9</color>
+    <color name="colorLightYellow">#f6f3e7</color>
+    <color name="colorYellow">#f6e3c4</color>
+    <color name="colorBlue2">#7879b4</color>
+    <color name="colorOrange">#fa6e5a</color>
+    <color name="colorOrange1">#feb18f</color>
+    <color name="colorGreen">#6cb28e</color>
+    <color name="colorBlack1">#3f414e</color>
+    <color name="colorOrange2">#ffcf86</color>
+
+</resources>

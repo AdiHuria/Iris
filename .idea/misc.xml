@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/drawable/border_shadow.xml" value="0.2324074074074074" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/drawable/bottom_navigation_color_selector.xml" value="0.2462962962962963" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/drawable/cb_selector.xml" value="0.2490740740740741" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/drawable/circle_black_boder.xml" value="0.2351851851851852" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/drawable/circle_marun.xml" value="0.23796296296296296" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/drawable/circle_marun_border.xml" value="0.23796296296296296" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/drawable/custom_edittext.xml" value="0.2490740740740741" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/drawable/custom_thumb.xml" value="0.2324074074074074" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/drawable/rounded_black_boder.xml" value="0.2490740740740741" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/drawable/rounded_black_border.xml" value="0.2490740740740741" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/drawable/rounded_blue.xml" value="0.2518518518518518" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/drawable/rounded_grey.xml" value="0.2462962962962963" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/drawable/rounded_grey_2.xml" value="0.23796296296296296" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/drawable/rounded_ligth_green.xml" value="0.24444444444444444" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/drawable/rounded_marun-2.xml" value="0.2462962962962963" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/drawable/rounded_marun.xml" value="0.2490740740740741" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/drawable/rounded_marun_2.xml" value="0.2462962962962963" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/drawable/rounded_white.xml" value="0.2490740740740741" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/drawable/rounded_white_boder.xml" value="0.2490740740740741" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/drawable/rounded_yellow.xml" value="0.2462962962962963" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/drawable/seekbar_progress.xml" value="0.2324074074074074" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/drawable/seekbar_style.xml" value="0.2324074074074074" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/activity_forgot_password.xml" value="0.2" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/activity_login.xml" value="0.152" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/activity_main_2.xml" value="0.152" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/activity_music_player.xml" value="0.264" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/activity_scrolling.xml" value="0.152" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/activity_sign_up.xml" value="0.2" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/activity_verification.xml" value="0.176" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/activity_welcome.xml" value="0.2" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/activity_welcome_2.xml" value="0.2" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/fragment_american_sign_lang.xml" value="0.2" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/fragment_converted_sign_lang.xml" value="0.176" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/fragment_home.xml" value="0.152" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/fragment_indian_sign_lang.xml" value="0.176" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/fragment_mediate_time.xml" value="0.25" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/fragment_meditation.xml" value="0.152" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/fragment_page.xml" value="0.25" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/fragment_profile.xml" value="0.2" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/fragment_reminder.xml" value="0.152" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/fragment_setting.xml" value="0.176" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/fragment_speech_to_text.xml" value="0.176" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/fragment_text_to_sign.xml" value="0.2" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/fragment_text_to_speech.xml" value="0.2" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/sigle_date_available_view.xml" value="0.25" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/single_home.xml" value="0.25" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/single_main.xml" value="0.176" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/single_raw_meditation.xml" value="0.2" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/single_raw_profile.xml" value="0.2" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/single_raw_setting.xml" value="0.176" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/single_raw_sign_images.xml" value="0.25" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/single_raw_viewpager.xml" value="0.152" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/layout/verification_password.xml" value="0.176" />
+        <entry key="..\:/bakup rishit/Rishit/R/android projetcs/slock friends/Iris/app/src/main/res/menu/bottom_navigation_items.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

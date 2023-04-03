@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="none">
+
+    <LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/ll_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/iv_reading"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_welcome"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_15sdp"
+            android:layout_marginTop="@dimen/_25sdp"
+            android:layout_marginEnd="@dimen/_15sdp"
+            android:fontFamily="@font/alegreyasans_bold"
+            android:text="@string/profile"
+            android:textColor="@color/colorMarun"
+            android:textSize="@dimen/_20sdp" />
+
+        <com.makeramen.roundedimageview.RoundedImageView
+            android:id="@+id/iv_big_profile"
+            android:layout_width="@dimen/_105sdp"
+            android:layout_height="@dimen/_105sdp"
+            android:layout_gravity="center"
+            android:animateLayoutChanges="true"
+            android:cropToPadding="true"
+            android:src="@drawable/user_profile"
+            app:riv_border_color="@color/white"
+            app:riv_border_width="@dimen/_2sdp"
+            app:riv_corner_radius="@dimen/_100sdp" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/alegreyasans_regular"
+            android:gravity="center"
+            android:text="@string/change_profile"
+            android:textColor="@color/colorMarun"
+            android:textSize="@dimen/_14sdp" />
+
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rv_profile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="@dimen/_30sdp"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:layout_marginEnd="@dimen/_30sdp"
+            android:background="@drawable/rounded_yellow"
+            android:paddingTop="@dimen/_15sdp"
+            android:paddingBottom="@dimen/_10sdp"
+            android:visibility="visible" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:fontFamily="@font/alegreyasans_medium"
+            android:layout_marginEnd="@dimen/_30sdp"
+            android:layout_marginStart="@dimen/_40sdp"
+            android:text="@string/more"
+            android:textColor="@color/black"
+            android:textSize="@dimen/_14sdp" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_marginStart="@dimen/_30sdp"
+            android:layout_marginEnd="@dimen/_30sdp"
+            android:layout_marginBottom="@dimen/_25sdp"
+            android:paddingTop="@dimen/_5sdp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:paddingBottom="@dimen/_10sdp"
+            android:background="@drawable/rounded_yellow"
+            android:layout_height="wrap_content">
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tv_help_support"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:fontFamily="@font/alegreyasans_bold"
+                android:text="@string/help_support"
+                android:layout_marginEnd="@dimen/_10sdp"
+                android:layout_marginStart="@dimen/_15sdp"
+                android:textColor="@color/colorMarun"
+                android:textSize="@dimen/_16sdp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_marginEnd="@dimen/_10sdp"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/tv_help_support"
+                android:layout_alignParentEnd="true"
+                android:src="@drawable/grater_then" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tv_about_app"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv_help_support"
+                android:layout_marginStart="@dimen/_15sdp"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:layout_marginEnd="@dimen/_10sdp"
+                android:fontFamily="@font/alegreyasans_bold"
+                android:text="@string/about_app"
+                android:textColor="@color/colorMarun"
+                android:textSize="@dimen/_16sdp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_marginEnd="@dimen/_10sdp"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/tv_about_app"
+                android:layout_alignParentEnd="true"
+                android:src="@drawable/grater_then" />
+        </RelativeLayout>
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>

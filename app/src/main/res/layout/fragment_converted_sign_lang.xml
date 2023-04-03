@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorLightGreen4"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/rl_back"
+        android:layout_width="@dimen/_30sdp"
+        android:layout_height="@dimen/_30sdp"
+        android:layout_marginStart="@dimen/_15sdp"
+        android:layout_marginTop="@dimen/_15sdp"
+        android:layout_marginEnd="@dimen/_15sdp"
+        android:background="@drawable/rounded_black_border"
+        android:padding="@dimen/_8sdp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/back" />
+    </RelativeLayout>
+
+
+    <ImageView
+        android:layout_width="@dimen/_35sdp"
+        android:layout_height="@dimen/_35sdp"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="@dimen/_15sdp"
+        android:layout_marginEnd="@dimen/_15sdp"
+        android:src="@drawable/user_profile" />
+
+    <TextView
+        android:id="@+id/tv_welcome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_back"
+        android:layout_marginStart="@dimen/_15sdp"
+        android:layout_marginTop="@dimen/_25sdp"
+        android:layout_marginEnd="@dimen/_15sdp"
+        android:fontFamily="@font/alegreyasans_bold"
+        android:gravity="center"
+        android:text="@string/american_sign"
+        android:textColor="@color/colorYellow"
+        android:textSize="@dimen/_22sdp" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/tv_download_text"
+        android:layout_below="@+id/tv_welcome"
+        android:layout_marginStart="@dimen/_25sdp"
+        android:layout_marginTop="@dimen/_25sdp"
+        android:layout_marginEnd="@dimen/_25sdp"
+        android:layout_marginBottom="@dimen/_25sdp"
+        android:background="@drawable/rounded_white"
+        android:paddingTop="@dimen/_10sdp" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tv_no_data"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/tv_welcome"
+        android:layout_above="@+id/tv_download_text"
+        android:layout_marginStart="@dimen/_25sdp"
+        android:gravity="center"
+        android:layout_marginTop="@dimen/_25sdp"
+        android:visibility="gone"
+        android:layout_marginEnd="@dimen/_25sdp"
+        android:layout_marginBottom="@dimen/_25sdp"
+        android:layout_height="match_parent"
+        android:text="No data found."
+        android:background="@drawable/rounded_white"
+        android:fontFamily="@font/alegreyasans_regular"
+        android:textColor="@color/colorTextHint"
+        android:textSize="@dimen/_13sdp" />
+
+    <!--<ImageView
+        android:id="@+id/iv_sing_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/tv_download_text"
+        android:layout_below="@+id/tv_welcome"
+        android:layout_marginStart="@dimen/_25sdp"
+        android:layout_marginTop="@dimen/_25sdp"
+        android:layout_marginEnd="@dimen/_25sdp"
+        android:layout_marginBottom="@dimen/_25sdp"
+        android:background="@drawable/rounded_white"
+        android:scaleType="fitXY" />-->
+
+    <TextView
+        android:id="@+id/tv_download_text"
+        android:layout_width="@dimen/_130sdp"
+        android:layout_height="@dimen/_40sdp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginStart="@dimen/_25sdp"
+        android:layout_marginEnd="@dimen/_25sdp"
+        android:layout_marginBottom="@dimen/_20sdp"
+        android:background="@drawable/rounded_marun_2"
+        android:visibility="gone"
+        android:fontFamily="@font/alegreyasans_regular"
+        android:gravity="center"
+        android:text="@string/download"
+        android:textColor="@color/colorYellow"
+        android:textSize="@dimen/_16sdp" />
+
+
+</RelativeLayout>

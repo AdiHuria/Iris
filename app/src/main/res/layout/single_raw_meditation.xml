@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:id="@+id/card_view"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="@dimen/_15sdp"
+    android:layout_marginEnd="@dimen/_15sdp"
+    android:layout_marginBottom="@dimen/_15sdp"
+    android:backgroundTint="@color/colorLightOrange"
+    app:cardCornerRadius="@dimen/_15sdp"
+    app:cardElevation="@dimen/_5sdp">
+-->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_main"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="@dimen/_10sdp"
+    android:layout_marginEnd="@dimen/_10sdp"
+    android:layout_marginBottom="@dimen/_10sdp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_10sdp"
+        android:layout_marginEnd="@dimen/_10sdp"
+        android:gravity="center_vertical"
+        android:paddingTop="@dimen/_15sdp"
+        android:paddingBottom="@dimen/_15sdp">
+
+        <ImageView
+            android:id="@+id/iv_image"
+            android:layout_width="@dimen/_110sdp"
+            android:layout_height="@dimen/_110sdp"
+            android:layout_marginBottom="@dimen/_minus10sdp"
+            android:src="@drawable/text_to_speech" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_try_now"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/iv_image"
+            android:layout_marginTop="@dimen/_15sdp"
+            android:fontFamily="@font/alegreyasans_regular"
+            android:includeFontPadding="false"
+            android:text="Reduce Stress"
+            android:textColor="@color/colorDarkOrange"
+            android:textSize="@dimen/_13sdp" />
+
+
+    </RelativeLayout>
+</LinearLayout>
+
+
+    <!--
+    </androidx.cardview.widget.CardView>-->
